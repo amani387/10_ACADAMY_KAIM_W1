@@ -47,12 +47,10 @@ This project focuses on analyzing publication trends over time using a dataset o
 
 ---
 
-## Recommendations
-1. Align operational or analytical resources to high-activity periods to capture insights more effectively.
-2. Investigate spikes in activity to identify key events or triggers.
-3. Use the insights to better schedule news consumption or decision-making processes.
+## Recommendations 
+here u can find the recommendation
 
----
+      https://drive.google.com/file/d/1umgvStiNUW184MvwHo_mdYBPswOq5rqk/view?usp=sharing
 
 ## How to Run the Analysis
 1. Clone this repository:
