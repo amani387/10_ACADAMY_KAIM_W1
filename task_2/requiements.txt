@@ -1,0 +1,6 @@
+yfinance
+TA-Lib
+pandas
+matplotlib
+TextBlob
+PyNance
